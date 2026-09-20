@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Hip in pain: red body in profile, throbbing hip joint with pain spikes -->
+  <circle cx="64" cy="64" r="60" fill="#fdeaea"/>
+  <g transform="translate(6 0)">
+    <path d="M44 18 L50 56 L90 70 L76 106" fill="none" stroke="#b93a32" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M76 106 L92 106" fill="none" stroke="#b93a32" stroke-width="16" stroke-linecap="round"/>
+    <circle cx="50" cy="57" r="22" fill="#ff3b30" opacity="0.35"/>
+    <circle cx="50" cy="57" r="15" fill="#ff3b30"/>
+    <g stroke="#ff3b30" stroke-width="7" stroke-linecap="round" fill="none">
+      <path d="M24 34 L12 22"/>
+      <path d="M18 57 L2 57"/>
+      <path d="M24 80 L12 92"/>
+    </g>
+  </g>
+</svg>

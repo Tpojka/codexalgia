@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Codexalgia",
+  "version": "1.0.0",
+  "description": "Toolbar hip that hurts while Codex CLI is working and relaxes when Codex is ready.",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqvDFkVTA3Lo4Lq/8IG2rbMxmAX8WFK66gFPm6FKKUE3tXoVIzy6IMSSvoYgjKXB38A8S9HR4J1E1CaeNGxfvd8hHoSAPEAS4oT1Fg1n9Nhi7GkKZFQGAFUag4PYx/ZpKUCZ4j7JONSmr1xEF581ht9FobB5m4/JeUdVbnxm/FK+3Hkt9pDSglhvhXcIKqUON/vReGbyHaln/0gDhE0gQeRLTz58ScUfQS5LJHwO63nK8MNHLAAFhzshO0YeySzcrroAr//9pJ15kAcWBexT9/E7MRt527/HR7v+sa04Hbzevpj4yHexGb+J/2+lsnGdjQ7s8TlDd8vx+o6ISW+14hQIDAQAB",
+  "permissions": ["nativeMessaging", "alarms"],
+  "background": { "service_worker": "background.js" },
+  "action": {
+    "default_title": "Codexalgia: connecting…",
+    "default_icon": {
+      "16": "icons/hip-unknown-16.png",
+      "32": "icons/hip-unknown-32.png",
+      "48": "icons/hip-unknown-48.png",
+      "128": "icons/hip-unknown-128.png"
+    }
+  },
+  "icons": {
+    "16": "icons/hip-ok-16.png",
+    "32": "icons/hip-ok-32.png",
+    "48": "icons/hip-ok-48.png",
+    "128": "icons/hip-ok-128.png"
+  }
+}
