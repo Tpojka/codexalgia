@@ -1,5 +1,8 @@
 # Codexalgia
 
+> [!IMPORTANT]
+> **Archived.** Codexalgia is now part of [Perturbation](https://perturbation.tpojka.com) ([repository](https://github.com/Tpojka/perturbation)), one Chrome toolbar lamp for Claude Code, Codex CLI, GitHub Copilot CLI, Antigravity CLI, opencode, Goose and Qwen Code. Perturbation's installer finds Codexalgia and offers to remove it. This repository stays online, read-only, for reference.
+
 A Chrome toolbar button that shows whether OpenAI's Codex CLI is working, with optional desktop notifications. It works on macOS, Ubuntu/Linux and Windows.
 
 | Icon | Meaning |
